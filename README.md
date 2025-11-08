@@ -140,5 +140,3 @@ This project was created for my **Python Programming / OOP course** as part of m
 This project is open-source and free to use for educational purposes.
 
 ---
-
-Would you like me to make a **shorter README version** too (something like one page for a printed report submission)?
